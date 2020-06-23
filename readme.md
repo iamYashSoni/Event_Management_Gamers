@@ -1,7 +1,4 @@
 # Event Coordinating System for Gamers
-
-event coordinating for gamers
-
 ## members
 
 - Emily Goltz
