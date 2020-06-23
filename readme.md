@@ -1,6 +1,6 @@
-# csc 4350 final
+# Event Coordinating System for Gamers
 
-event coordinating for gamers (group 7)
+event coordinating for gamers
 
 ## members
 
